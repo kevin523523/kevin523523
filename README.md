@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Kevin&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Ingeniero%20en%20Computaci%C3%B3n%20%E2%80%A2%20Desarrollo%20Web%20%E2%80%A2%20IA&descAlignY=58&descSize=18" alt="Kevin - Ingeniero en Computación" />
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/kevin523523">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack;Creando+aplicaciones+con+IA;APIs+%E2%80%A2+Bases+de+datos+%E2%80%A2+Despliegues+seguros;Siempre+aprendiendo+%F0%9F%9A%80" alt="Animación: Desarrollador Web Full Stack, Creando aplicaciones con IA" />
 </a>
 
